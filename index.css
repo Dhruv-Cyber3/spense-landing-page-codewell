@@ -36,3 +36,15 @@ body {
     text-align: center;
   }
 }
+
+@media (max-width:580px){
+  /* .phone-model {
+    transform: translateX(-20%);
+  } */
+  .phone-model-text {
+    transform: translateX(25%);
+  }
+  .phone-model-img {
+    transform: translateX(0%);
+  }
+}
